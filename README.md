@@ -15,4 +15,5 @@ The data was analyzed using Python and the following libraries:
 * Numpy: for mathematical equations
 * Seaborn, Matplotlib: for data visualizations
 * sklearn: for machine learning and statistical modeling
-# Results
+# Presentation
+[Video presentation](https://youtu.be/85wiuUugq3g)
